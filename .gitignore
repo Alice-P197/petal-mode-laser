@@ -1,0 +1,6 @@
+# MATLAB
+*.asv
+
+# Windows
+Thumbs.db
+Desktop.ini
